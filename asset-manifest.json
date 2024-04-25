@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KnowMyWife/static/css/main.e4a41e8b.css",
+    "main.js": "/KnowMyWife/static/js/main.6f37e905.js",
+    "static/js/453.c2535fc8.chunk.js": "/KnowMyWife/static/js/453.c2535fc8.chunk.js",
+    "index.html": "/KnowMyWife/index.html",
+    "main.e4a41e8b.css.map": "/KnowMyWife/static/css/main.e4a41e8b.css.map",
+    "main.6f37e905.js.map": "/KnowMyWife/static/js/main.6f37e905.js.map",
+    "453.c2535fc8.chunk.js.map": "/KnowMyWife/static/js/453.c2535fc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a41e8b.css",
+    "static/js/main.6f37e905.js"
+  ]
+}
